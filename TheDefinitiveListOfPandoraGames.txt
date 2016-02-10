@@ -1,0 +1,696 @@
+[CENTER][SIZE=4][IMG]https://lh3.googleusercontent.com/vwXRUrzO6NszmMvK3ipLK5wHgbgzShBCyN5HwFNPyWmIVNFw1hpOsrvaNG9sMHnqPD6t9CmwpDfPaYTVC4NmuwCReZJSUrzNysCXm7t2DtWgXjBDo3zIUEYveXve6FPee0pzp1IejPVnPQunvV0WLTAFsj7tNl5L6SFC8R2TXVAFBIBGYPdFquQbn5dsU1iw7pAqFs02mt9CCoC-Ihjt-Ai0eRoIvOiuN1QAH-TZWz4gyFFSfdI_rVdeow-Bwv0CJSyc9-Cix1rGsUg8iRvJqh1-Uxz_c3KFLvRCWlbxHqsjD4hYbpNm6GnSiF8XLf0iblB2qTuwt4h3tJu4GncuKYbY-iEh_pg3GsP-OqNi9J0dNyI4UETrIkICmEo0huECYKdOrZP5ZzQcGiR3ymeUez0wSnGPJWg1vj9akwq4NEyhJBC8sm1z4TECgPbKTDAYHwfkqaraXzWyicEYwenQDxRTpnQ4AYcKXc7CRD4Ej5Fx5TpfxFqOt4taGGT5q19-XGffMqcfik1UvPJbBAA7xpuj7exx6Os97mbBwTj-nP1QNAG4fPxiTx9LcKdamwWbkySy=w800-h350-no[/IMG] [/SIZE][/CENTER]
+
+[SIZE=6][B]General Overview[/B][/SIZE]
+[SIZE=4]
+With the days of the Pandora winding down and the days of the Pyra winding... up(?), I've decided to create a definitive list of all the games that exist on the Pandora.
+
+I'm categorizing games as games that were either made for, or specifically ported to the Pandora.  I do not count games that run on an emulator as games in this list.  Additionally, I don't count things like [/SIZE][URL='http://www.repo.openpandora.org/?page=detail&app=scummvm.djwillis.0001'][SIZE=4]ScummVM[/SIZE][/URL][SIZE=4] or [/SIZE][URL='http://www.repo.openpandora.org/?page=detail&app=gemrb-31292'][SIZE=4]GemRB[/SIZE][/URL][SIZE=4], because they play multiple games.  This list is really about [/SIZE][B][SIZE=4]individual games for Pandora[/SIZE][/B][SIZE=4].
+
+[B]SOME OF THE GAMES ON THIS LIST REQUIRE YOU PURCHASE A COPY OF THE GAME OUTSIDE OF THE PANDORA REPO.[/B]  Though not always directly through the Pandora repository, games like [URL='http://www.repo.openpandora.org/?page=detail&app=jedioutcast_ptitseb']Jedi Knight II: Jedi Outcast[/URL] and [URL='http://www.repo.openpandora.org/?page=detail&app=rtcw_ptitseb']Return to Castle Wolfenstein[/URL] require a purchase outside of the Pandora repository.  These games will have a note that a purchase is required directly beneath the game's title, and the note will contain a link to where you can make the purchase.
+[/SIZE]
+[B][SIZE=6]Nitty Gritty
+[/SIZE][/B]
+[SIZE=4]I intend to include the following things with each game:[/SIZE]
+[LIST]
+[*][SIZE=4]Screenshots from the game.  If a shot from the Pandora is available, I'll use that.  Otherwise, I'll use images from other sources (official website, etc.)[/SIZE]
+[*][SIZE=4]A video of the game on YouTube.  If I can find a YouTube video of the game running on Pandora, I will use that.  Otherwise, I'll use another video.[/SIZE]
+[*][SIZE=4]A thank you to the author of the port or original game for their work.[/SIZE]
+[*][SIZE=4]Score of the game in the repo.  Most scores of the games in the repo are really high, probably as a way of saying thank you to the person who ported it.  It's because of this, that I'll also include...[/SIZE]
+[*][SIZE=4]A score from external website.  I'm partial to User Scores on [URL='http://www.mobygames.com/']MobyGames.com[/URL].  If a score isn't available there, I'll try to find a score somewhere else.  If I can't find a score at all, I'll post that I can't find an external score.[/SIZE]
+[*][SIZE=4]The next three I might need help from the community on.  The first is Accuracy (out of five). This is specific to ports.  How accurate is the game on Pandora compared to the game on the original platform?[/SIZE]
+[*][SIZE=4]Next is Speed.  Does it run at the same speed it does on the original platform.  Again, out of five.[/SIZE]
+[*][SIZE=4]Last of the three, I'd like to include "Playability".  Sometimes, games that were designed for mouse and keyboard (for example) don't lend themselves to touchscreen, traditional gaming controls, and a reduced-size keyboard.  A bit of honesty from the community would be appreciated here.  Out of five.[/SIZE]
+[*][SIZE=4]A synopsis of the game.  Will be taken from the Repo, or whichever source has the best written, succinct synopsis (Wikipedia, MobyGames, etc).  Source will be noted.[/SIZE]
+[*][SIZE=4]Finally, I will include a link to the game in the repo.[/SIZE]
+[/LIST]
+
+[B][SIZE=6]Questions:[/SIZE][/B]
+
+[INDENT][SIZE=4][B]Q: Why are you making this list?  Most of this information is available in the repo![/B]
+[B]A:[/B] I think it's more convenient to have a big informative list with screenshots and synopses that you can scroll through than to have a list of only game names and score out of five stars.  Also, I'm trying to include information not available in the repo.  For example, external reviews (perhaps from multiple sources) and an honest-to-goodness assessment of how well the game plays on Pandora.  There's certainly room for more information.  As the maintainer of this thread, I will take feedback from the community, and update this post accordingly.
+
+[B]Q: You didn't include a game![/B]
+[B]A:  [/B]I tried to include everything.  Please make a post with the game or games I missed and I'll add it to this post.
+
+[B]Q: I want to download all of the games![/B]
+[B]A:[/B] I think that's a good idea.  Maybe we could organize games into two directories -- "requires purchase", and "does not require purchase" -- and make a torrent to link to in this thread.
+
+[B]Q: The list would be better if you did this specific thing to it.[/B]
+[B]A:  [/B]Again, I'm open to feedback.
+
+[B]Q: This thread blew up my smartphone![/B]
+[B]A: [/B] No comment.[/SIZE][/INDENT]
+
+
+[SIZE=6][B]Final Notes:[/B][/SIZE]
+[SIZE=4]
+I'm trying to get this thread stickied... but if it's not stickied, that's OK.[/SIZE]
+
+[SIZE=4]Let's get right to it![/SIZE]
+
+
+[CENTER][B][SIZE=7][U]The Definitive List of Pandora Games[/U][/SIZE][/B]
+[/CENTER]
+[B][SIZE=7]AquaVenture[/SIZE][/B]
+[SIZE=4][SPOILER="AquaVenture"][/SPOILER][/SIZE][SPOILER="AquaVenture"]
+[B][SIZE=5][IMG]http://www.repo.openpandora.org/files/pnd/AquaVenture_iprice/previews/02.PNG[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/AquaVenture_iprice/previews/03.PNG[/IMG] 
+[URL='https://www.youtube.com/watch?v=-pswOvjZwN8']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [/SIZE][B][SIZE=5]iprice[/SIZE][/B][SIZE=5] for creating the game and porting it to Pandora!
+[B]Score in the Repo: [/B]4.67/5
+No external score available
+[B]Accuracy: 5/5[/B]
+[B]Speed: 5/5[/B]
+[B]Playability: 5/5[/B]
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]AquaVenture is a turn based arcade adventure.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=AquaVenture_iprice']AquaVenture in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[B][SIZE=7]AREA2048[/SIZE][/B]
+[SIZE=4][SPOILER="AREA2048"][/SPOILER][/SIZE][SPOILER="AREA2048"]
+[SIZE=5][B][IMG]http://www.repo.openpandora.org/files/pnd/area2048_m-ht/a2k-1.png[/IMG] [/B][/SIZE]
+[B][SIZE=6][IMG]http://www.repo.openpandora.org/files/pnd/area2048_m-ht/a2k-2.png[/IMG] [/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=ujN20CWZkC0']YouTube video[/URL][/SIZE][/B][/B]
+[SIZE=5]Thank you to [B]M-HT[/B] for creating AREA2048 and porting it to Pandora!
+[B][B]Score in the Repo: [/B][/B]4.83/5
+[B]MegaGames.com Score: [/B]3/5
+[B][B]Accuracy: [/B][/B]???/5
+[B][B]Speed: [/B][/B]???/5
+[B][B]Playability: [/B][/B]???/5[/SIZE]
+[B][SIZE=5][B]Synopsis (from MegaGames.com):[/B][/SIZE][/B]
+[INDENT][SIZE=4]Area 2048 is a retro-type shooter which disguises its excellent use of graphics and effects by using an Asteroid type design.
+
+The game operates based ona simple concept, eliminate all enemies in a map to move-on to the next one, while every few maps you get a boss enemy. Your weapons are, rapid-fire missiles and a special weapon, needs recharging between uses, which can get you out of messy situations. In [B]Area 2048 [/B]the music is a techno-like sound which seems to fit-in very well with the game, while some Japanese (I believe) chatter, comes up every time you complete a level.[/SIZE][/INDENT]
+[B][B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=area2048_m-ht']AREA2048 in the Pandora Repo[/URL][/SIZE][/B][/B]
+[/SPOILER]
+[B]
+
+[SIZE=7]Arkanoid Remake[/SIZE][/B]
+[SIZE=4][SPOILER="Arkanoid Remake"][/SPOILER][/SIZE][SPOILER="Arkanoid Remake"]
+[SIZE=6][B][IMG]http://www.repo.openpandora.org/files/pnd/arkanoid_ptitseb/preview2.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/arkanoid_ptitseb/preview3.png[/IMG] [/B][/SIZE]
+[B][B][SIZE=5][URL='https://www.youtube.com/watch?v=9iNlPA4-_pk']YouTube video (running on Pandora)[/URL][/SIZE][/B][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game on Pandora!
+[B][B]Score in the Repo: [/B][/B]4.8/5
+No external score available.[/SIZE]
+[B][SIZE=5][B]Accuracy: 5[/B]/5
+[B]Speed: 5[/B]/5
+[B]Playability: 5[/B]/5
+Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]This is a remake of Arkanoid, the classic Breakout.
+This is not a faithfull reconstitution of the Original. Gameplay may differ.
+There is more than 30 levels to clear, with many options falling. As a bonus, you can choose your stating level (but only in the first 12 levels)[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=arkanoid_ptitseb']Arkanoid Remake in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+[SIZE=7]ASCII Man[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="ASCII Man"][/SPOILER][/SIZE][SPOILER="ASCII Man"][/spoiler][/FONT][SPOILER="ASCII Man"]
+[SIZE=4]No screenshots of ASCII Man are available.
+No YouTube videos of ASCII Man are available.[/SIZE]
+[SIZE=5]Thank you to [B]elw3[/B] for porting and maintaining this game on Pandora!
+[B]Score in the Repo: [/B]4.75/5
+No external score available.
+[B][B]Accuracy: [/B][/B]???/5
+[B][B]Speed: [/B][/B]???/5
+[B][B]Playability: [/B][/B]???/5[/SIZE]
+[B][SIZE=5]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]An ascii art jump an slash?[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=aman&dp=true']ASCII Man in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+
+[SIZE=7]Bagman Remake[/SIZE][/B]
+[SIZE=4][SPOILER="Bagman Remake"][/SPOILER][/SIZE][SPOILER="Bagman Remake"]
+[B][SIZE=6][IMG]http://www.repo.openpandora.org/files/pnd/bagmanremake_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/bagmanremake_ptitseb/preview2.png[/IMG] [/SIZE][/B]
+[SIZE=4]No YouTube videos of Bagman Remake are available.[/SIZE]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game on Pandora!
+[B][B]Score in the Repo: [/B][/B]4.89/5
+No external score available.
+[B][B]Accuracy: [/B][/B]???/5
+[B][B]Speed: [/B][/B]???/5
+[B][B]Playability: [/B][/B]???/5[/SIZE]
+[B][SIZE=5]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]Bagman is a GPL remake of the excellent Valadon Automation arcade game. I've disassembled the original arcade game so the guard movement is more or less the same, as well as elevators.[/SIZE][/INDENT]
+[B][SIZE=7][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=bagmanremake_ptitseb']Bag Man Remake in the Pandora Repo[/URL][/SIZE][/SIZE][/B]
+[/SPOILER]
+
+
+[B][SIZE=7]The Battle for Wesnoth[/SIZE][/B]
+[SIZE=4][SPOILER="The Battle for Wesnoth"][/SPOILER][/SIZE][SPOILER="The Battle for Wesnoth"]
+[SIZE=6][B][IMG]http://www.repo.openpandora.org/files/pnd/wesnoth-1.12/screenshots/wesnoth-1.11-0.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/wesnoth-1.12/screenshots/wesnoth-1.11-1.png[/IMG] [/B][/SIZE]
+[B]
+[SIZE=5][URL='https://www.youtube.com/watch?v=spIcUPsLvZA']YouTube video (running on a Pandora devboard)[/URL]
+[URL='https://www.youtube.com/watch?v=Iw8ZAWKmycI']Alternative YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]Ivanovic[/B] for porting and maintaining this game on Pandora!
+[B][B]Score in the Repo: [/B][/B]4.8/5
+[B]Score on MobyGames.com (browser version): [/B]4.0/5
+[B][B]Accuracy: [/B][/B]???/5
+[B][B]Speed: [/B][/B]???/5
+[B][B]Playability: [/B][/B]???/5[/SIZE]
+[B][SIZE=5]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]The Battle for Wesnoth is a turn-based strategy game with a fantasy theme.
+Build up a great army, gradually training raw recruits into hardened veterans. In later games, recall your toughest warriors and form a deadly host against whom none can stand! Choose units from a large pool of specialists, and hand pick a force with the right strengths to fight well on different terrains against all manner of opposition.
+Wesnoth has many different sagas waiting to be played out. You can battle orcs, undead, and bandits on the marches of the Kingdom of Wesnoth; fight alongside dragons in the lofty peaks, elves in the green reaches of the Aethenwood, dwarves in the great halls of Knalga, or even merfolk in the Bay of Pearls. You can fight to regain the throne of Wesnoth, or use your dread power over the Undead to dominate the land of mortals, or lead your glorious Orcish tribe to victory against the humans who dared despoil your lands.[/SIZE][/INDENT]
+[SIZE=7][B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=wesnoth-1.12']The Battle for Wesnoth in the Pandora Repo[/URL][/SIZE][/B][/SIZE]
+[/SPOILER]
+
+[B][SIZE=7]Boson-X[/SIZE][/B]
+[SIZE=4][SPOILER="Boson-X"][/SPOILER][/SIZE][SPOILER="Boson-X"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/bosonx_ptitseb/preview1.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/bosonx_ptitseb/preview2.png[/IMG] [/B][/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=tTmhpo0ZGJg']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo:[/B] 4.8/5
+[B]Score on TouchArcade.com:[/B] 5/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability:[/B] ???/5
+[B]Synopsis (from the boson-x.com):[/B][/SIZE]
+[INDENT][SIZE=4]Quantum jump from Planck to Planck as you hit critical velocity in Boson X, a new rotational runner from Mu & Heyo.
+
+Build up speed inside a massive particle accelerator and generate high-energy collisions to discover strange new particles. Use precise timing and fast reflexes to navigate a subatomic world where floors and ceilings don't exist. Will you be fast enough to find the elusive Boson X?[/SIZE][/INDENT]
+[SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=bosonx_ptitseb'][B]Boson-X in the Pandora Repo[/B][/URL][/SIZE]
+[/SPOILER]
+
+[B][SIZE=7]Brogue[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Brogue"][/SPOILER][/SIZE][SPOILER="Brogue"][/spoiler][/FONT][SPOILER="Brogue"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/brogue/.package/screenshot.png[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=2heHtwCFn9s']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]lunixbochs[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.67/5
+[B]Score in the Apple App Store: [/B]5/5
+[B]Accuracy:[/B] ???/5
+[B]Speed:[/B] ???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Brogue is a Roguelike game by Brian Walker.
+
+You are the @ symbol. Move around the dungeon with the mouse, the vi-keys (hjklyubn) or keypad keys. The arrow keys will also work, but they do not allow diagonal movement. Your goal is to travel to the 26th subterranean floor of the dungeon, retrieve the Amulet of Yendor and return with it to the surface. For the truly skillful who desire further challenge, depths below 26 contain three lumenstones each -- items which confer no benefit except an increased score upon victory.[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=brogue']Brogue in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+[SIZE=7]BurgerSpace[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="BurgerSpace"][/SPOILER][/SIZE][SPOILER="BurgerSpace"][/spoiler][/FONT][SPOILER="BurgerSpace"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/burgerspace_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/burgerspace_ptitseb/preview2.png[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=54w25ntwjnw']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.75/5
+No external score available.
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]BurgerSpace, a hamburger-smashing video game. It is a clone of the 1982 BurgerTime video game by Data East.[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=burgerspace_ptitseb']BurgerSpace in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+[SIZE=7]Cannonball (Outrun port)[/SIZE]
+[SIZE=5]This game requires the Outrun ROM file to play.  No link to this ROM file is available.[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Cannonball (Outrun port)"][/SPOILER][/SIZE][SPOILER="Cannonball (Outrun port)"][/spoiler][/FONT][SPOILER="Cannonball (Outrun port)"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/cannonball_ptitseb/preview3.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/cannonball_ptitseb/preview2.png[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=0w2shLRMJ0U']YouTube video (running on Pandora[B])[/B][/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo:[/B] 4.67/5
+[B]Score on MobyGames.com (of Outrun, arcade version):[/B] 4.1/5
+[B]Accuracy: [/B]5/5
+[B]Speed: [/B]5/5
+[B]Playability:[/B] 5/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4][I]OutRun[/I] is a racing game that allows the player to race across varied terrain in a readily available Ferrari, complete with a female passenger, over a series of short tracks.
+
+Gameplay is viewed from just above and behind the car. The roads are full of sharp bends and hazards, contact with which can cause the car to roll and lose the player's time. On each section of track there is a fork in the road, allowing the player to choose which direction he or she wishes to go in. The player has to to complete five track sections in total, out of the fifteen in the game.[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=cannonball_ptitseb']Cannonball in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+[SIZE=7]Cave Express[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Cave Express"][/SPOILER][/SIZE][SPOILER="Cave Express"][/spoiler][/FONT][SPOILER="Cave Express"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/caveexpress_ptitseb/preview2.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/caveexpress_ptitseb/preview1.png[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=-dbGwIZTT-A']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]5/5
+[B]Score on Google Play:[/B] 3.7/5
+[B]Accuracy: [/B]???/5
+[B]Speed:[/B] ???/5
+[B]Playability: [/B]???/5[/SIZE]
+[B][SIZE=5]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]CaveExpress is a classic 2D platformer with physics-based gameplay and dozens of levels.
+
+Master your pedal-powered flying machine to pick up packages from your cave-dwelling clients and drop them off at the collection point.
+But beware! Mighty mastodons, terrifying pterodactyls and others would rather see you extinct.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=caveexpress_ptitseb']Cave Express in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]Diablo[/B][/SIZE]
+[B][SIZE=5]This game requires you own Diablo for PC in order to play.  You can purchase Diablo for PC on Amazon.com [URL='http://www.amazon.com/Diablo-PC/dp/B0007YBJ1S?tag=duckduckgo-d-20']here[/URL] and on eBay.com [URL='http://www.ebay.com/sch/i.html?_sacat=0&_nkw=diablo%201&_dcat=139973&Platform=PC&rt=nc&_trksid=p2045573.m1684']here[/URL].  Additionally, instructions for installing the game on Pandora are available in the Pandora Repo, linked to below.[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Diablo"][/SPOILER][/SIZE][SPOILER="Diablo"][/spoiler][/FONT][SPOILER="Diablo"]
+[SIZE=7][B][IMG]https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F35300000%2FDiablo-video-game-diablo-35361576-640-480.png&f=1[/IMG] [/B]
+[B][IMG]https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F35300000%2FDiablo-video-game-diablo-35361570-640-480.png&f=1[/IMG] [/B][/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=BPEZ2qz1U0E']YouTube video (running on Pandora[B])[/B][/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]notaz[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]5/5
+[B]Score on MobyGames.com (for Windows): [/B]4/5
+[B]Accuracy: [/B]5/5
+[B]Speed: [/B]5/5
+[B]Playability:[/B] 4/5
+[B]Synopsis (from Wikipedia.org):[/B][/SIZE]
+[INDENT][SIZE=4][I]Diablo[/I] is an action role-playing hack and slash video game developed by [URL='https://en.wikipedia.org/wiki/Blizzard_North']B[/URL]lizzard North and released by Blizzard Entertainment on December 31, 1996.
+
+Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, [I]Diablo[/I] has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen randomly generated dungeon levels, ultimately entering Hell itself in order to face Diablo.[/SIZE][/INDENT]
+[B][SIZE=5]Diablo in the Pandora Repo[/SIZE][/B]
+[/SPOILER]
+[B]
+[SIZE=7]Diablo II[/SIZE]
+[B][SIZE=4]This game requires you own Diablo II for PC in order to play.  You can purchase Diablo II for PC from Bizzard's official website, Battle.net [URL='https://us.battle.net/shop/en/product/diablo-ii']here[/URL].  Additional instructions for running on Pandora are available in the repo, linked to below.[/SIZE][/B][/B]
+[FONT=Arial][SIZE=4][SPOILER="Diablo II"][/SPOILER][/SIZE][SPOILER="Diablo II"][/spoiler][/FONT][SPOILER="Diablo II"]
+[B][SIZE=7][IMG]http://cdn-static.gamekult.com/gamekult-com/images/photos/00/00/09/49/diablo-ii-lord-of-destruction-screenshot-ME0000094930_2.jpg[/IMG] 
+[IMG]http://2.bp.blogspot.com/-bjvZ06p2f3M/T-eZ6OaAsyI/AAAAAAAABOI/V44PYqgl7cA/s1600/blog5.jpeg[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=jXo613aYVwg']YouTube video (running on Pandora[B])[/B][/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]notaz[/B] for porting and maintaining this game!
+[B]Score in the repo: 4.91/5[/B]
+[B]Score on MobyGames.com (for Windows): [/B]3.9/5
+[B]Accuracy:[/B] 5/5
+[B]Speed:[/B] 5/5
+[B]Playability:[/B] 4/5
+[B]Synopsis (from Wikipedia.org):[/B][/SIZE]
+[INDENT][SIZE=4][I]Diablo II[/I] is an action role-playing hack and slash video game developed by Blizzard North and published by Blizzard Entertainment in 2000 for Microsoft Windows and [URL='https://en.wikipedia.org/wiki/Mac_OS']M[/URL]ac OS. The game, with its dark fantasy and horror themes, was conceptualized and designed by David Brevik and Erich Schaefer, who with Max Schaefer acted as project leads on the game. The producers were Matthew Householder and Bill Roper.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=package.diablo2']Diablo II in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]DoomRunner[/B][/SIZE]
+[SIZE=4][B]This game requires that you own a copy of DOOM for PC in order to play.  You can purchase a DRM-free copy of DOOM from GOG.com [URL='http://www.gog.com/game/the_ultimate_doom']here[/URL].[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="DoomRunner"][/SPOILER][/SIZE][SPOILER="DoomRunner"][/spoiler][/FONT][SPOILER="DoomRunner"]
+[SIZE=4][B][IMG]http://www.repo.openpandora.org/files/pnd/doomrunner.sirthunder516.1651995/doomrunnerui.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/doomrunner.sirthunder516.1651995/prboomgl.png[/IMG] [/B][/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=PX8gmCB2-4E']YouTube video (running on Pandora -- unsure if this is DoomRunner)[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]Nick Virag (sirthunder516)[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.71/5
+[B]Score on MobyGames.com (Windows version): [/B]3.8/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4]The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.
+
+id Software's follow-up to their genre-defining [URL='http://www.mobygames.com/search/quick?game=Wolfenstein+3D']Wolfenstein 3D[/URL], [I]DOOM[/I] is another first-person 3D shooter: full-on action seen from the space marine's perspective. Like Wolfenstein, the game consists of distinct episodes, playable in any order. The first episode, [I]Knee-Deep in the Dead[/I], takes place in the Phobos base and is freely available as shareware. The full game continues on Deimos in [I]The Shores of Hell[/I] and culminates in [I]Inferno[/I], the final episode which takes place in Hell itself.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=doomrunner.sirthunder516.1651995']DoomRunner in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]DukeNukem3D - EDuke32[/B][/SIZE]
+[B][B][SIZE=4]This game requires that you own a copy of Duke Nukem 3D for PC in order to play. You can purchase a copy of Duke Nukem 3D from Steam [URL='http://store.steampowered.com/app/225140/']here[/URL] (requires Steam client, which is free).[/SIZE][/B][/B]
+[FONT=Arial][SIZE=4][SPOILER="DukeNukem3D - EDuke32"][/SPOILER][/SIZE][SPOILER="DukeNukem3D - EDuke32"][/spoiler][/FONT][SPOILER="DukeNukem3D - EDuke32"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/duke3d/previews/preview2.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/duke3d/previews/preview1.png[/IMG] [/B][/SIZE]
+
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=XO5J_D3-Lt8']YouTube video (running on Pandora[B])[/B][/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]mcobit[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.82/5
+[B]Score on MobyGames.com (Windows version):[/B] 4.4/5
+[B]Accuracy: [/B]5/5
+[B]Speed: [/B]5/5
+[B]Playability:[/B] 5/5
+[B]Synopsis (from Wikipedia.org):[/B][/SIZE]
+[INDENT][SIZE=4]Duke Nukem 3D is a first-person shooter video game developed by 3D Realms and published by GT Interactive Software. The full version of the game was originally released for MS-DOS in May 1996 as version 1.3d, while the shareware version was released on January 29, 1996. It is a sequel to the platform games Duke Nukem and Duke Nukem II, published by 3D Realms. [/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=duke3d']Duke Nukem 3D - EDuke32 in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+
+[SIZE=7]Dune Dynasty[/SIZE]
+[SIZE=4]Dune Dynasty requires a copy of Dune II for PC to play.  You can purchase Dune II for PC from Amazon.com [URL='http://www.amazon.com/Virgin-Interactive-Dune-II-Building/dp/B0009IIBJ0/ref=sr_1_2?ie=UTF8&qid=1455043161&sr=8-2&keywords=dune+ii']here[/URL] and from eBay.com [URL='http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1313.TR12.TRC2.A0.H0.XDiablo.TRS0&_nkw=Dune+II+The+Building+of+a+Dynasty&_sacat=0']here[/URL].  Additional installation instructions for Pandora are available in the repo, linked to below.[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Dune Dynasty"][/SPOILER][/SIZE][SPOILER="Dune Dynasty"][/spoiler][/FONT][SPOILER="Dune Dynasty"]
+[B][SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/dunedynasty_ptitseb/preview2.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/dunedynasty_ptitseb/preview3.png[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=8crDQv40HH4']YouTube video (running on Pandora[B])[/B][/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.8/5
+[B]Score of Dune II on MobyGames.com (for Amiga):[/B] 4.2/5
+[B]Accuracy: [/B]5/5
+[B]Speed: [/B]5/5
+[B]Playability: [/B]4/5
+[B]Synopsis (from Wikipedia.org):[/B][/SIZE]
+[INDENT][SIZE=4]Dune II: The Building of a Dynasty is a Dune video game developed by Westwood Studios and released by Virgin Interactive on Jan 1, 1992. It is based upon David Lynch's 1984 movie Dune, an adaptation of Frank Herbert's science fiction novel of the same name.[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=dunedynasty_ptitseb']Dune Dynasty in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+
+[SIZE=7]Exult (Ultima 7)[/SIZE][/B]
+[SIZE=4][B]Exult requires a copy of Ultima 7 for PC to play.  You can download a DRM-free copy of Ultima 7 on GOG.com [URL='http://www.gog.com/game/ultima_7_complete']here[/URL].[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Exult (Ultima 7)"][/SPOILER][/SIZE][SPOILER="Exult (Ultima 7)"][/spoiler][/FONT][SPOILER="Exult (Ultima 7)"]
+[B][SIZE=7][IMG]http://images-4.gog.com/37b2b11f10d0d7b2c71236e254f7b2ec8f789a5f629c38d5c5cd766f08413580_product_card_screenshot_600_2x.jpg[/IMG] 
+[IMG]http://images-1.gog.com/24a8a649833d6618afaf45465cc90321c0d9f50368aac9a727863d1781e32bbe_product_card_screenshot_600_2x.jpg[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=NOpHUzG8OnU']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]pickle[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.8/5
+[B]Score on MobyGames.com (for DOS): [/B]4.1/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from Wikipedia.org):[/B][/SIZE]
+[INDENT][SIZE=4][I]Ultima VII: The Black Gate[/I] is the seventh installment of the [I]Ultima series[/I] of role-playing video games, released on April 16, 1992.
+
+[I]The Black Gate[/I] was critically acclaimed and commercially successful, being widely lauded as a high point in the series and as one of the best RPGs ever created. In an interview with GameSpot, Richard Garriott stated that [I]Ultima VII[/I] "was the most masterfully executed of the [I]Ultima[/I] series." He has also often stated that the game was, along with Ultima IV, his own favorite installment overall.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=exult.pickle']Exult (Ultima 7) in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[B][SIZE=7]Fish Fillets NG[/SIZE][/B]
+[FONT=Arial][SIZE=4][Spoiler="Fish Fillets NG"][/Spoiler][/SIZE][Spoiler="Fish Fillets NG"][/spoiler][/FONT][Spoiler="Fish Fillets NG"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/fishfillets-1431251/previews/fillets.png[/IMG] [/B][/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=EgJlCen3Sko']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]mcobit[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.67/5
+No external score is available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Fish Fillets NG is a Linux port of the wonderful puzzle game Fish Fillets from ALTAR interactive.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=fishfillets-1431251']Fish Fillets NG in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+
+[SIZE=7][B]Force: Leashed[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Force: Leashed"][/SPOILER][/SIZE][SPOILER="Force: Leashed"][/spoiler][/FONT][SPOILER="Force: Leashed"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/forceleashed_ptitseb/preview2.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/forceleashed_ptitseb/preview1.png[/IMG] [/B][/SIZE]
+[B][URL='https://www.youtube.com/watch?v=8OBOfDJPM7g'][SIZE=5]YouTube video[/SIZE][/URL][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.71/5
+External score not available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Force: Leashed is a free first person gravity fiddler. To advance, you need to guide rockets to their targets using spherical potential fields. And no, it's not like Portal. That much.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=forceleashed_ptitseb']Force Leashed in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]Galactic Artifact[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Galactic Artifact"][/SPOILER][/SIZE][SPOILER="Galactic Artifact"][/spoiler][/FONT][SPOILER="Galactic Artifact"]
+[SIZE=7][B][IMG]http://www.games.randomlynx.net/GalacticArtifact/GalacticArtifactTeaser3.png[/IMG] [/B]
+[B][IMG]http://www.games.randomlynx.net/GalacticArtifact/GalacticArtifactTeaser4.png[/IMG] [/B][/SIZE]
+[SIZE=5]No YouTube video of this game is available
+Thank you to [B]Trevor Bradley (xperia64)[/B] for [I]creating[/I] and maintaining this game!
+[B]Score from the repo: [/B]4.67/5
+External score not available
+[B]Accuracy: [/B]???/5
+[B]Speed:[/B] ???/5
+[B]Playability:[/B] ???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Galactic Artifact is a real time, non-combat game of space exploration. Alien archaeologists are in search of a prized galactic artifact, hidden away somewhere amongst the stars, and have sent you on a quest to find it! You are in command of a star ship, ready to explore the galaxy, discovering hidden artifacts along the way and making a bit of profit on the side. You gather and these artifacts and sell them to the alien archaeologists for cash to upgrade your ship, or trade them for information that provide clues to help you complete your quest. As you accumulate more information, the region of the galaxy that need be explored is reduced, until the quest is completed and the prized artifact is found.[/SIZE][/INDENT]
+[B][SIZE=5][URL='http://www.repo.openpandora.org/?page=detail&app=galacticartifact']Galactic Artifact in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+[B]
+
+[SIZE=7]GANNATSU PORTABLE[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="GANNATSU PORTABLE"][/SPOILER][/SIZE][SPOILER="GANNATSU PORTABLE"][/spoiler][/FONT][SPOILER="GANNATSU PORTABLE"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/gnp_104/pic2.jpg[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/gnp_104/pic1.jpg[/IMG] [/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=RZCvKjoKWIo']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]palstyo[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.75/5
+No external score is available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]A game where you need to collect items in different levels - using [an] Anchor[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=gnp_104']GANNATSU PORTABLE in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]GNURobbo[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="GNURobbo"][/SPOILER][/SIZE][SPOILER="GNURobbo"][/spoiler][/FONT][SPOILER="GNURobbo"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/gnurobbo/previews/gnurobbo1.png[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/gnurobbo/previews/gnurobbo.png[/IMG] [/B][/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=VztLWyJ8iI0']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to GNURobbo-team for [I]creating[/I] and maintaining this game!
+[B]Score in the repo: [/B]4.67/5
+[B]Score of Robbo on MobyGames.com (for DOS): [/B]3.8/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis[/B][/SIZE]
+[INDENT][SIZE=4][I]No synopsis available[/I][/SIZE][/INDENT]
+[URL='http://www.repo.openpandora.org/?page=detail&app=gnurobbo'][B][SIZE=5]GNURobbo in the Pandora Repo[/SIZE][/B][/URL]
+[/SPOILER]
+
+
+[B][SIZE=7]Gods Deluxe[/SIZE][/B]
+[FONT=Arial][SIZE=4][SPOILER="Gods Deluxe"][/SPOILER][/SIZE][SPOILER="Gods Deluxe"][/spoiler][/FONT][SPOILER="Gods Deluxe"]
+[B][SIZE=7][IMG]http://www.repo.openpandora.org/files/pnd/gods_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/gods_ptitseb/preview2.png[/IMG] [/SIZE][/B]
+[SIZE=5][URL='https://www.youtube.com/watch?v=nrJ_f9iNN7o'][B]YouTube video[/B][/URL]
+Thank you to ptitSeb for porting and maintaining this game!
+[B]Score on the repo: [/B]4.83/5
+No external score is available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Gods -Deluxe- is a remake of the excellent Bitmap Brothers platform game
+All classic levels are now complete and working, and there's 4 extra full levels from the author.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=gods_ptitseb']Gods Deluxe in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]Harmony[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Harmony"][/SPOILER][/SIZE][SPOILER="Harmony"][/spoiler][/FONT][SPOILER="Harmony"]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/harmony_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/harmony_ptitseb/preview2.png[/IMG] [/B]
+[URL='https://www.youtube.com/watch?v=ZAK8yCCjJTQ'][B][SIZE=6]YouTube video[/SIZE][/B][/URL]
+[SIZE=5]Thank you to [/SIZE][B][SIZE=6]ptitSeb[/SIZE][/B][SIZE=5] for porting and maintaining this game![/SIZE]
+[B][SIZE=6]Score in the repo: [/SIZE][/B][SIZE=5]4.89/5
+No external score is available[/SIZE]
+[B][SIZE=6]Accuracy: [/SIZE][/B][SIZE=5]???/5[/SIZE]
+[B][SIZE=6]Speed: [/SIZE][/B][SIZE=5]???/5[/SIZE]
+[B][SIZE=6]Playability: [/SIZE][/B][SIZE=5]???/5[/SIZE]
+[B][SIZE=6]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]Harmony is a 11-level stand-alone total conversion, created by Thomas van der Velden and released after five years of development.
+
+In the near future: Led by greed and hatred mankind drove itself into another world war. The forces of the Northern and Southern Hemisphere attacked each other with everything their destructive arsenal had to offer. Nuclear, chemical and biological weapons wiped out entire countries. The combined effect of the weapons resulted in an unforeseen side effect; a supervirus emerged that mutated all the men on Earth. For unknown reasons the women were unaffected. But they weren't safe either...
+
+The mutated men, though intelligent, lost touch with reality. From their corrupted minds a new order was formed; 'the Pax Pox'. Its first priority is to rid the world of the "impure".
+
+The women who survived the war united to form an army against the mutant aggressors and called themselves "the Amazons".
+
+Today one of the Amazon outposts is attacked and their leader; Amira is taken captured. Her last hope is her loyal friend; Harmony.
+
+Will Harmony be able to rescue her friend and the rest of the human race?[/SIZE][/INDENT]
+[B][SIZE=6][URL='http://www.repo.openpandora.org/?page=detail&app=harmony_ptitseb']Harmony in the Pandora Repo[/URL][/SIZE][/B]
+[/SPOILER]
+
+
+[SIZE=7][B]Hex-A-Hop[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Hex-A-Hop"][/SPOILER][/SIZE][SPOILER="Hex-A-Hop"][/spoiler][/FONT][SPOILER="Hex-A-Hop"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/hexahop/previews/hexahop1.jpg[/IMG] [/B]
+[B][IMG]http://www.repo.openpandora.org/files/pnd/hexahop/previews/hexahop2.jpg[/IMG] [/B][/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=6r5QO5Zfros']YouTube video[/URL][/B]
+Thank you to [B]mcobit[/B] for porting and maintaining this game!
+[B]Score on repo: [/B]4.69/5
+External score not available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5[/SIZE]
+[B][SIZE=5]Synopsis (from hexahop.sourceforge.net):[/SIZE][/B]
+[INDENT]Hex-a-Hop is a hexagonal tile-based puzzle game with one simple goal: destroy all green tiles! There are infinite undos and no time limits -- you just have to find a way to destroy all the green tiles and step on a safe tile at the end.[/INDENT]
+[URL='http://www.repo.openpandora.org/?page=detail&app=hexahop'][SIZE=6][B]Hex-A-Hop in the Pandora Repo[/B][/SIZE][/URL]
+[/SPOILER]
+
+[SIZE=7][B]Homeworld[/B][/SIZE]
+[SIZE=4][B]This game requires a copy of Homeworld for the PC in order to play.  You can download [/B][I][B]Homeworld Remastered[/B][/I][B], which includes a copy of [/B][I][B]Homeworld[/B][/I] [I][B](classic)[/B][/I][B] from Steam [/B][URL='http://store.steampowered.com/app/244160'][B]here[/B][/URL][B] (requires free Steam client).[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Homeworld"][/SPOILER][/SIZE][SPOILER="Homeworld"][/spoiler][/FONT][SPOILER="Homeworld"]
+[SIZE=4][B][IMG]http://cloud.attackofthefanboy.com/wp-content/uploads/2015/02/Homeworld-Remastered-Collection-Review-3-760x428.jpg[/IMG] [/B]
+[B][IMG]http://core0.staticworld.net/images/article/2016/01/2016-01-18_00016-100638684-orig.jpg[/IMG] [/B][/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=QCl0rtFyt1I'][B]YouTube video (running on Pandora)[/B][/URL]
+Thank you to [B]edglex[/B] for porting and maintaining this game!
+[B]Score in the repo: 4.67/5[/B]
+[B]Score on MobyGames.com (Windows version): [/B]4/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4]A discovery is about to turn the culture of Kharak upside down. The people, Kushan, are not native to Kharak at all. The discovery of the Guidestone is the ultimate proof that Kushan had came from another solar system, far away. And it's time to go home. The Mothership project united the world. Part base, part construction yard, the Mothership is capable of everything, as you never know what you will find in the void...
+[I]Homeworld[/I] is a 3D strategy game where you control a mothership and a fleet as you harvest resources, conduct research, and build up your fleet that can vary from small, fast, and nimble scouts to lumbering heavy cruisers. Move your camera in full 3D (up/down/around) and issue full 3D movement orders. Specify 3D formations for your ships, employ cloaked vessels to ambush enemy or employ salvage vessels to capture enemy ships, or defend against them with prox sensors and mines. There is a 17-mission single player campaign, or you can play online in true internet multi-player.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=homeworld-r907']Homeworld in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+
+[SIZE=7][B]Hostile Takeover[/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Hostile Takeover"][/SPOILER][/SIZE][SPOILER="Hostile Takeover"][/spoiler][/FONT][SPOILER="Hostile Takeover"]
+[IMG]http://www.repo.openpandora.org/files/pnd/hostiletakeover_ptitseb/preview2.png[/IMG]
+[IMG]http://www.repo.openpandora.org/files/pnd/hostiletakeover_ptitseb/preview1.png[/IMG]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=chOo6xe8SIM']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb [/B]for porting and maintaining this game!
+[B]Score in the repo: [/B]4.78/5
+[B]Score in the Apple App Store (of Warfare Incorporated): [/B]4.5/5
+[B]Accuracy: [/B]???/5
+[B]Speed:[/B] ???/5
+[B]Playability:[/B] ???/5[/SIZE]
+[B][SIZE=5]Synopsis (from the repo):[/SIZE][/B]
+[INDENT][SIZE=4]Hostile Takeover is the open source release of the wildly popular mobile Real Time Strategy game Warfare Incorporated. Warfare Incorporated's developers, grateful for all the contributions of the open source community, are delighted to give something back.[/SIZE][/INDENT]
+[URL='http://www.repo.openpandora.org/?page=detail&app=hostiletakeover_ptitseb&p=2'][B][SIZE=5]Hostile Takeover in the Pandora Repo[/SIZE][/B][/URL]
+[/SPOILER]
+[SIZE=7]
+[B][FONT=Arial]Hurrican[/FONT][/B][/SIZE]
+[FONT=Arial][SIZE=4][SPOILER="Hurrican"][/SPOILER][/SIZE][SPOILER="Hurrican"][/spoiler][/FONT][SPOILER="Hurrican"]
+[SIZE=7][B][IMG]http://www.repo.openpandora.org/files/pnd/hurrican.pickle/hurrican-pvw.jpg[/IMG] [/B][/SIZE]
+[SIZE=5][URL='https://www.youtube.com/watch?v=jJVMC_nO17s'][B]YouTube video (running on the Pandora)[/B][/URL]
+Thank you to [B]Pickle[/B] for porting and maintaining this game!
+[B]Score (in the repo): [/B]4.77/5
+[B]Score on MobyGames.com (for Windows): [/B]4.4/5
+[B]Accuracy: [/B]5/5
+[B]Speed: [/B]4/5
+[B]Playability: [/B]5/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Hurrican is a freeware jump and shoot game that is based on the Turrican game series.[/SIZE][/INDENT]
+[URL='http://www.repo.openpandora.org/?page=detail&app=hurrican.pickle'][B][SIZE=6]Hurrican in the Pandora Repo[/SIZE][/B][/URL]
+[/SPOILER]
+
+
+[SIZE=7][B]IOQuake 3[/B][/SIZE]
+[B]This game requires a copy of Quake III in order to play.  You can download a copy of Quake III Arena from Steam [URL='http://store.steampowered.com/app/2200/']here[/URL] (requires free Steam client), and a DRM-free copy of Quake III Gold from GOG.com [URL='http://www.gog.com/game/quake_iii_gold']here[/URL].[/B]
+[SPOILER="IOQuake 3"]
+[FONT=Arial][SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/ioquake3_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/ioquake3_ptitseb/preview2.png[/IMG] [/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=laVpV1PFziw']YouTube video[/URL][/B]
+Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.7/5
+[B]Score on MobyGames.com (Windows version of Quake III: Gold): [/B]3.8/5
+[B]Accuracy:[/B] ???/5
+[B]Speed: [/B]???/5
+[B]Playability:[/B] ???/5
+[B]Synopsis (from GOG.com):[/B][/SIZE][/FONT]
+[INDENT][FONT=Arial][SIZE=4]Welcome to the Arena, where high-ranking warriors are transformed into spineless mush. Abandoning every ounce of common sense and any trace of doubt, you lunge onto a stage of narrowing landscapes and veiled abysses. Your new environment rejects you with lava pits and atmospheric hazards as legions of foes surround you, testing the gut reaction that brought you here in the first place. Your new mantra, fight or be finished.[/SIZE][/FONT][/INDENT]
+[FONT=Arial][SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=ioquake3_ptitseb&p=2']IOQuake3 in the Pandora Repo[/URL][/B][/SIZE][/FONT]
+[/SPOILER]
+[FONT=Arial]
+[SIZE=7][B]Jazz Jackrabbit 2[/B][/SIZE][/FONT]
+[B]This game requires a copy of Jazz Jackrabbit for PC in order to play.  You can purchase a copy of Jazz Jackrabbit from Amazon.com [URL='http://www.amazon.com/Jazz-Jackrabbit-2-PC/dp/B00001SHOK?tag=duckduckgo-d-20']here[/URL], and from eBay.com [URL='http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2050601.m570.l1311.R4.TR4.TRC2.A0.H0.Xjazz+jackrabbit.TRS0&_nkw=jazz+jackrabbit+2&_sacat=0']here[/URL].[/B]
+[SPOILER="Jazz Jackrabbit 2"]
+[FONT=Arial][SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/package.jazz2/jazz2_preview.jpg[/IMG] 
+[IMG]http://www.downloadsource.net/upload/Screeny/jazz2.jpg[/IMG] [/SIZE][/FONT]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=bGITBBoN7Cw']YouTube video[/URL][/B]
+Thank you to [B]notaz[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]5/5
+[B]Score on MobyGames.com (Windows version): [/B]3.8/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4]Jazz the jackrabbit was just about to marry his girlfriend Eva Earlong, when his arch-nemesis, the turtle Devan Shell, stole the wedding ring. To add insult to injury, Eva's hostile mother has locked Jazz and his brother Spaz in a dungeon. The two hares must escape, retrieve the precious jewel, and punish Devan for his evil deeds.
+
+Like its predecessor, [I]Jazz Jackrabbit 2[/I] is a platform shooter. Unlike the previous installment, the sequel allows the player to control Spaz as well. Jazz retains his ability to hover in the air by using his ears, and Spaz can stomp and smash enemies. The hares use a default blaster gun with unlimited ammunition and can later acquire more powerful weapons, a few of which (e.g. a freezing gun) were not found in the first game. Coins can be found throughout the stages and then given to vendors to access bonus areas.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=package.jazz2']Jazz Jackrabbit 2 in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B]
+[SIZE=7]Jedi Knight II: Jedi Outcast[/SIZE]
+You need a copy of Jedi Knight II: Jedi Outcast for PC to play this game.  You can get a DRM-free copy from GOG.com [URL='http://www.gog.com/game/star_wars_jedi_knight_ii_jedi_outcast']here[/URL].  Additional instructions on how to install on Pandora are in the repo, linked to below.[/B]
+[SPOILER="Jedi Knight II: Jedi Outcast"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/jedioutcast_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/jedioutcast_ptitseb/preview3.png[/IMG] [/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=FsJaFa-kmXc']YouTube video (running on Pandora)[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb [/B]for porting and maintaining this game!
+[B]Score in the repo:[/B] 4.69/5
+[B]Score on MobyGames.com (Macintosh version): [/B]4.1/5
+[B]Accuracy: [/B]3/5
+[B]Speed:[/B] 5/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4]In [I]Jedi Outcast[/I], you once again play Kyle Katarn, star of LucasArts' Star Wars-inspired 1st-person shooters Star Wars: Dark Forces and Star Wars: Jedi Knight - Dark Forces II.
+
+Kyle has retired from being a Jedi fearing consequences from the Dark Side of the Power found within himself during his chase of the foul Sith-Lord Jerec into the lost vale of the Jedi at the end of Dark Forces 2. Chronologically taking place after the second Star Wars Trilogy, you'll meet various well known people from the original Star Wars movies like Luke Skywalker himself and Lando Calrissian.
+
+Also following the tradition of its predecessors, you explore the surroundings in the typical 3D environment and can use a lot of different weapons and gear from the Star Wars Universe, including the famous Jedi Weapon, the light saber.[/SIZE][/INDENT]
+[URL='http://www.repo.openpandora.org/?page=detail&app=jedioutcast_ptitseb'][SIZE=5][B]Jedi Knight II: Jedi Outcast in the Pandora Repo[/B][/SIZE][/URL]
+[/SPOILER]
+[B][SIZE=7]
+Jedi Knight 3: Jedi Academy[/SIZE][/B]
+[SIZE=4][B]A copy of Jedi Knight III: Jedi Academy for PC is required to play this game.  You can download a DRM-free copy from GOG.com [URL='http://www.gog.com/game/star_wars_jedi_knight_jedi_academy']here[/URL].  Additional instructions to play this game on Pandora are in the repo, linked to below.[/B][/SIZE]
+[SPOILER="Jedi Knight 3: Jedi Academy"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/jediacademy_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/jediacademy_ptitseb/preview2.png[/IMG] [/SIZE]
+[B][SIZE=5][URL='https://www.youtube.com/watch?v=r4kd9YT9itA']YouTube video[/URL][/SIZE][/B]
+[SIZE=5]Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.44/5
+[B]Score on MobyGames.com (Windows version): [/B]3.7/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from MobyGames.com):[/B][/SIZE]
+[INDENT][SIZE=4]Star Wars: Jedi Knight - Jedi Academy is the sequel to Star Wars: Jedi Knight II - Jedi Outcast. The player is cast as Jaden Korr, a padawan at the Jedi Academy taught by Luke Skywalker and Kyle Katarn. Both the character and his lightsaber are to be created at the beginning of the game. Throughout the game, the player will acquire several force powers and weapons, such as lightning and the Tenlos Disruptor Rifle. As he progresses through the different missions, he may be seduced by the dark side of the Force...[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=jediacademy_ptitseb']Jedi Knight 3: Jedi Academy in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B][SIZE=7]
+Kaiten Patissier[/SIZE][/B]
+[SPOILER="Kaiten Patissier"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/rg_105/pic2.jpg[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/rg_105/pic1.jpg[/IMG] [/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=jQU4d-MCAKM']YouTube video[/URL][/B]
+Thank you to [B]palstyo[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.8/5
+[B]Score on Gamespot.com (Xbox 360 Indie Games): [/B]4/5
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]A game where you need to collect items in different levels - by rotating them to readjust platforms, walls, etc.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=rg_105']Kaiten Patissier in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B][SIZE=7]
+Kiki the Nano Bot[/SIZE][/B]
+[SPOILER="Kiki the Nano Bot"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/kiki_ptitseb/preview3.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/kiki_ptitseb/preview2.png[/IMG] [/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=dP_chB8ODyU']YouTube video[/URL][/B]
+Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.8/5
+External score is not available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]Kiki the Nano Bot is a 3-D puzzle game, basically a mixture of the games Sokoban and Kula-World.[/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=kiki_ptitseb']Kiki the Nano Bot in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B][SIZE=7]
+Mini Slug Project[/SIZE][/B]
+[SPOILER="Mini Slug Project"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/minislug_ptitseb/preview1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/minislug_ptitseb/preview2.png[/IMG] [/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=paIYMpkXgsQ']YouTube video (running on Pandora -- version without music)[/URL][/B]
+Thank you to [B]ptitSeb[/B] for porting and maintaining this game!
+[B]Score in the repo:[/B] 4.74/5
+No external score is available
+[B]Accuracy: [/B]5/5
+[B]Speed:[/B] 5/5
+[B]Playability: [/B]5/5
+[B]Synopsis (from the repo):[/B][/SIZE]
+[INDENT][SIZE=4]It's a tribute to the Metal Slug Serie from Clément CORDE.
+
+It is a game composed of 3 Missions (each mission divided into a number of levels). The first mission is similar to the serie, then it forks and offers some refreshing gameplay (find the submarine in mission two if you can!). But first mission alone will not be easy to complete ![/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=minislug_ptitseb']Mini Slug Project in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B][SIZE=7]
+Mortimer the Lepidopterist[/SIZE][/B]
+[SPOILER="Mortimer the Lepidopterist"]
+[SIZE=4][IMG]http://www.repo.openpandora.org/files/pnd/lepidopterist.Farox/previews/screenshot1.png[/IMG] 
+[IMG]http://www.repo.openpandora.org/files/pnd/lepidopterist.Farox/previews/screenshot2.png[/IMG] [/SIZE]
+[SIZE=5][B][URL='https://www.youtube.com/watch?v=0QPFewv4Hhs']YouTube video[/URL][/B]
+Thank you to [B]Farox[/B] for porting and maintaining this game!
+[B]Score in the repo: [/B]4.8/5
+No external score is available
+[B]Accuracy: [/B]???/5
+[B]Speed: [/B]???/5
+[B]Playability: [/B]???/5
+[B]Synopsis:[/B][/SIZE]
+[INDENT][SIZE=4]Complete your quest to become the world's greatest butterfly collector![/SIZE][/INDENT]
+[SIZE=5][B][URL='http://www.repo.openpandora.org/?page=detail&app=lepidopterist.Farox']Mortimer the Lepidopterist in the Pandora Repo[/URL][/B][/SIZE]
+[/SPOILER]
+[B][SIZE=6]
+
+
+---------------------------------[/SIZE][/B]
+
+[SIZE=4][I]Saving my work and taking a break...[/I][/SIZE]
